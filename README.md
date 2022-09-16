@@ -1,2 +1,2 @@
 # wizPRO
-Project Wizard for wizOS
+Quick Project Manager for Wizard OS (wizOS)
